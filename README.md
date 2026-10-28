@@ -8,7 +8,9 @@ Aplikasi web pemberitaan dengan halaman baca untuk pengunjung dan dashboard admi
 
 | Dashboard Admin | Halaman Berita | Detail Berita |
 |---|---|---|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Beranda](docs/screenshots/beranda.png) | ![Detail](docs/screenshots/detail.png) |
+![Dashboard](application/docs/screenshots/dashboard.png)
+![Beranda](application/docs/screenshots/beranda.png)
+![Detail](application/docs/screenshots/detail.png) |
 
 ## Fitur
 
